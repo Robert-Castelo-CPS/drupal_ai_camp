@@ -1,19 +1,11 @@
-
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_rss' -->
-<!-- BEGIN OUTPUT from 'core/themes/stable9/templates/views/views-view-rss.html.twig' -->
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://robert-castelo-cps.github.io/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="https://robert-castelo-cps.github.io/drupal_ai_camp/">
   <channel>
     <title>Drupal AI Camp</title>
-    <link>https://robert-castelo-cps.github.io/</link>
-    <description></description>
+    <link>https://robert-castelo-cps.github.io/drupal_ai_camp/</link>
+    <description/>
     <language>en</language>
     
     
   </channel>
 </rss>
-
-<!-- END OUTPUT from 'core/themes/stable9/templates/views/views-view-rss.html.twig' -->
-
